@@ -1,1 +1,1 @@
-# sublime-neo
+# sublimetext-neo
